@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ToBeUpdatedLater
 - 📫 How to reach me www.linkedin.com/in/yedhuraj
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: life sukss
+- ⚡ Fun fact: Life goes on!
 
 <!---
 Rajyedhu98/Rajyedhu98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
