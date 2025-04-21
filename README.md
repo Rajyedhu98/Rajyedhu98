@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Yedhu Raj
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ToBeUpdatedLater
-- 📫 How to reach me www.linkedin.com/in/yedhuraj
+- 📫 How to reach me: www.linkedin.com/in/yedhuraj
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Life goes on!!
 
